@@ -1,0 +1,6 @@
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\bin\Debug\Gamosaxuleba.exe.config
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\bin\Debug\Gamosaxuleba.exe
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\bin\Debug\Gamosaxuleba.pdb
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\obj\Debug\Gamosaxuleba.csprojAssemblyReference.cache
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\obj\Debug\Gamosaxuleba.exe
+C:\Users\GEORGE.TSIKLAURI\source\repos\Gamosaxuleba\Gamosaxuleba\obj\Debug\Gamosaxuleba.pdb
