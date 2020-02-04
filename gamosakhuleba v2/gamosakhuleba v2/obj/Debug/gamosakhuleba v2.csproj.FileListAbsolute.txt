@@ -1,0 +1,6 @@
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\bin\Debug\gamosakhuleba v2.exe.config
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\bin\Debug\gamosakhuleba v2.exe
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\bin\Debug\gamosakhuleba v2.pdb
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\obj\Debug\gamosakhuleba v2.csprojAssemblyReference.cache
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\obj\Debug\gamosakhuleba v2.exe
+C:\Users\GEORGE.TSIKLAURI\source\repos\gamosakhuleba v2\gamosakhuleba v2\obj\Debug\gamosakhuleba v2.pdb
